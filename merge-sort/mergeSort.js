@@ -22,5 +22,3 @@ function mergeSort(arr) {
 
   return merge(mergeSort(left), mergeSort(right));
 }
-
-//With credit to Stephen Grider's algorithms coursse
